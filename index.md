@@ -5,21 +5,28 @@ The world of programming can be confusing. That is why the best place to start t
 ![java-vs-python](https://user-images.githubusercontent.com/46731576/101271299-88ee1c80-3736-11eb-9f87-0f1c81763bef.png)
 
 
-## Java
+### Java
+Java was developed in 1995 by James Gosling. It is a general purpose programming language made to work across all platforms. It has been around for a long time, developing a big community of developers.
 
-### Complexity
+### Python
+Python was actually developed in 1991, by Guido van Rossum. It only started to gain its massive popularity in around 2004 when Google started using Python and reinvesting into its development. It continues to increase in popularity because of how easy it is to use.
 
-### Utility
+## Complexity
+Java's syntax is not that complex, and with a few instructional videos or online tutorials, you can learn it quickly. Though compared to Python, Java is much more complex. These two code segments do the same thing.
 
-### Transferability
+Java
+```markdown
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
+    }
+}
+```
 
-## Python
+## Utility
 
-### Complexity
+## Transferability
 
-### Utility
-
-### Transferability
 
 # Conclusion
 
