@@ -46,17 +46,17 @@ This would simply make the variable a equal True. There would be no errors. Chan
 Java is useful because it is a general purpose programming language. With its vast libraries and tools that Java developers have created, you can do almost anything with Java. The same can be said for Python. 
 The biggest advantage Java has though is that Java is much faster. All of the flexibility that comes with Python syntax means that the computer has to do a lot more behind the scenes, making Python really slow. Java can be used to create large applications, and it has been used to help create things such as:
 
-**Minecraft**
+ - **Minecraft**
 
-**Netflix**
+ - **Netflix**
 
-**Spotify**
+ - **Spotify**
 
-**Linkedin**
+ - **Linkedin**
 
-**Uber**
+ - **Uber**
 
-**Amazon**
+ - **Amazon**
 
 
 Most of these products use Java to do back end programming, so Java does a lot of the calculations that you can't see.
