@@ -26,10 +26,20 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 # Big Title
 [Darude Sandstorm](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-## Criteria 1
+## Java
 
-## Criteria 2
+### Complexity
 
-## Criteria 3
+### Utility
+
+### Transferability
+
+## Python
+
+### Complexity
+
+### Utility
+
+### Transferability
 
 # Conclusion
