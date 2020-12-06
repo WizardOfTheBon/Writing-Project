@@ -1,9 +1,7 @@
-![matrix-code](https://user-images.githubusercontent.com/46731576/101272094-e3d74200-373d-11eb-9234-8dd4fe00df92.jpg)
+![java-vs-python](https://user-images.githubusercontent.com/46731576/101271299-88ee1c80-3736-11eb-9f87-0f1c81763bef.png)
 
 # Programming Languages for Beginners
 The world of programming can be confusing. That is why the best place to start to form your understanding is at the beginning. "But what language do I choose?" you may ask, eager to set yourself up for success and jumpstart your programming career. This is where that question will be answered. The two most popular languages to start with, Java and Python, will be evaluated and compared to find which one is right for you.
-
-![java-vs-python](https://user-images.githubusercontent.com/46731576/101271299-88ee1c80-3736-11eb-9f87-0f1c81763bef.png)
 
 
 ### Java
