@@ -62,13 +62,34 @@ The biggest advantage Java has though is that Java is much faster. All of the fl
 Most of these products use Java to do back end programming, so Java does a lot of the calculations that you can't see.
 
 
-## Teaching Concepts
+Despite Python being too slow to build big applications like how Java can, Python greatly improves productivity. As mentioned before, more can be done in Python using fewer lines of code than Java. Because Python is simple, easy to read, and productive, this makes Python a great tool for making smaller applications quickly. If you want to test out a new idea, new code, before full committing to it, you can use Python to get that done quickly. This has lead to the use of Python in companies such as:
 
+ - **Google**
+ 
+ - **Facebook**
+ 
+ - **Instagram**
+ 
+ - ...and so many more
+
+## Teaching Concepts
+Both Java and Python are object oriented, meaning that code is organized into objects that have attributes and can interact with eachother. What Java does that Python doesn't is that Java requires the programmer to be very specific. Here is an example.
+
+The "Hello, World!" code segment from before was incomplete in the Java form. What it would actually need to look like is this:
+```markdown
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
+    }
+}
+```
+Public means that the main method is globally available.
+Static means that the main method can be used without instantiating the class.
+Void means that the main method does not return a value when called.
+
+Python does not need this. Python is shorter because it assumes this information from context. Python makes assumptions that allows your code to change in unexpected ways. Like before, a variable in Python might have changed from an string into an integer because of a spelling error. Python doesn't know that the variable was a string, it only knows that it is an integer now. This is where Python falls short. Java would give you an error because it knows what that variable should be, you defined it as a string. Java doesn't assume anything because it forces you to be specific and meticulous. That is where Java beats Python in teaching the concepts of programming. Being very specific and meticulous will make sure your program does what you want it to.
 
 # Conclusion
+Both of these languages are great starting points, but which one is the right choice for you depends on what you are going to create. If you want to create a software product, Java would be a great choice. If you want to make small tools for various projects, Python is the one for you.
 
-
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
