@@ -17,11 +17,7 @@ Java's syntax is not that complex, and with a few instructional videos or online
 
 Java
 ```markdown
-class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!"); 
-    }
-}
+System.out.println("Hello, World!"); 
 ```
 
 Python
