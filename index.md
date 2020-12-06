@@ -12,7 +12,7 @@ Java was developed in 1995 by James Gosling. It is a general purpose programming
 Python was actually developed in 1991, by Guido van Rossum. It only started to gain its massive popularity in around 2004 when Google started using Python and reinvesting into its development. It continues to increase in popularity because of how easy it is to use.
 
 ## Complexity
-Java's syntax is not that complex, and with a few instructional videos or online tutorials, you can learn it quickly. Though compared to Python, Java is much more complex. These two code segments both print the line "Hello, World!" to the console.
+Java's syntax is not that complex, and with a few instructional videos or online tutorials, you can learn it quickly. Though in the battle for simplicity, Python wins. These two code segments both print the line "Hello, World!" to the console.
 
 
 Java
@@ -25,6 +25,22 @@ Python
 print("Hello, World!")
 ```
 
+In general, Python code is simpler and easier to read. Also, Python doesn't force the programmer to declare its variables or assign them a type.
+
+In Java this is how you make variables:
+```markdown
+int a = 42;
+String b = "banana for scale";
+bool c = True;
+```
+
+In Python you could do this:
+```markdown
+a = 42
+a = "banana for scale"
+a = True
+```
+This would simply make the variable a equal True. There would be no errors.
 
 ## Utility
 
