@@ -1,6 +1,6 @@
 
 # Programming Languages for Beginners
-Entering the world of programming can be confusing. With technical terms that sound like an alien language, or concepts you have never heard of before, diving into the deep end will only make programming more complex than it has to be. You have to start off easy.
+The world of programming can be confusing. That is why the best place to start to form your understanding is at the beginning. "But what language do I choose?" you may ask, eager to set yourself up for success and jumpstart your programming career. This is where that question will be answered. The two most popular languages to start with, Java and Python, will be evaluated and compared to find which one is right for you.
 
 [Darude Sandstorm](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
