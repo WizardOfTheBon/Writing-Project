@@ -13,7 +13,7 @@ Syntax highlighted code block
 
 # Header 1
 ## Header 2
-# Header 3
+### Header 3
 
 - Bulleted
 - List
@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://www.youtube.com/watch?v=dQw4w9WgXcQ) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
