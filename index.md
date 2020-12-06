@@ -1,6 +1,6 @@
 
 # Programming Languages for Beginners
-Entering the world of programming can be confusing. Technical terms that sound like an alien language. Concepts you have never heard of before. The best way to start is with something easy. Something to set you on a path to a new career.
+Entering the world of programming can be confusing. With technical terms that sound like an alien language, or concepts you have never heard of before, diving into the deep end will only make programming more complex than it has to be. You have to start off easy.
 
 [Darude Sandstorm](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
