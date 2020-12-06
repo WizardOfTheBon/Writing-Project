@@ -46,18 +46,18 @@ This would simply make the variable a equal True. There would be no errors. Chan
 Java is useful because it is a general purpose programming language. With its vast libraries and tools that Java developers have created, you can do almost anything with Java. The same can be said for Python. 
 The biggest advantage Java has though is that Java is much faster. All of the flexibility that comes with Python syntax means that the computer has to do a lot more behind the scenes, making Python really slow. Java can be used to create large applications, and it has been used to help create things such as:
 
-![Minecraft-Java_Keyart_255x383](https://user-images.githubusercontent.com/46731576/101272344-4c272300-3740-11eb-81a9-71df7dcb8bc7.jpg)
-Minecraft Java Edition is completely made using Java, as the name would imply.
+**Minecraft
 
-![netflix-logo](https://user-images.githubusercontent.com/46731576/101272346-4df0e680-3740-11eb-947b-77f52188fb69.png)
+**Netflix
 
-![spotify-logo-1920x1080_fouoik-1](https://user-images.githubusercontent.com/46731576/101272347-4fbaaa00-3740-11eb-97c4-9d00faf1b4c4.jpg)
+**Spotify
 
-![linkedin](https://user-images.githubusercontent.com/46731576/101272436-fe5eea80-3740-11eb-8da7-6c27ef067aef.jpg)
+**Linkedin
 
-![uberlogo](https://user-images.githubusercontent.com/46731576/101272441-00c14480-3741-11eb-875a-7099e4212a66.png)
+**Uber
 
-![amazonlogo](https://user-images.githubusercontent.com/46731576/101272443-01f27180-3741-11eb-9126-16f4d6e44fc6.png)
+**Amazon
+
 
 Most of these products use Java to do back end programming, so Java does a lot of the calculations that you can't see.
 
