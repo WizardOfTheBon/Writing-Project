@@ -1,5 +1,7 @@
 
 # Programming Languages for Beginners
+The world of programming can be daunting to new programmers. Setting yourself up for success can really make a difference.
+
 [Darude Sandstorm](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## Java
